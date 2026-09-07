@@ -1,3 +1,4 @@
+# src/baseline_model.py
 """
 Baseline classifier: TF-IDF features + Logistic Regression.
 
@@ -21,7 +22,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 
-from preprocess import add_clean_narrative, load_reports, summarize_categories
+from preprocess import add_clean_narrative, filter_rare_categories, load_reports, summarize_categories
 
 
 def build_pipeline() -> Pipeline:
@@ -53,18 +54,34 @@ def main():
     parser.add_argument("--test-size", type=float, default=0.25)
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--model-out", type=str, default="models/baseline.joblib")
+    parser.add_argument(
+        "--min-category-count",
+        type=int,
+        default=10,
+        help="Drop categories with fewer than this many examples (real data has a long tail; "
+        "a class with 1-2 examples can't be stratified-split and isn't measurable anyway)",
+    )
     args = parser.parse_args()
 
     df = load_reports(args.data)
+    df = filter_rare_categories(df, min_count=args.min_category_count)
     summarize_categories(df)
     df = add_clean_narrative(df)
 
+    # .to_numpy(dtype=object) rather than passing the pandas Series directly:
+    # on some pandas/pyarrow combinations, indexing a Series with an
+    # Arrow-backed string dtype the way train_test_split does internally
+    # raises a confusing TypeError. A plain object-dtype numpy array sidesteps
+    # that entirely. (See the same note in preprocess.load_reports.)
+    narratives = df["clean_narrative"].to_numpy(dtype=object)
+    categories = df["category"].to_numpy(dtype=object)
+
     X_train, X_test, y_train, y_test = train_test_split(
-        df["clean_narrative"],
-        df["category"],
+        narratives,
+        categories,
         test_size=args.test_size,
         random_state=args.seed,
-        stratify=df["category"],
+        stratify=categories,
     )
 
     pipeline = build_pipeline()

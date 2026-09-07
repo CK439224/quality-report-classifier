@@ -1,3 +1,4 @@
+# src/embedding_model.py
 """
 Embedding-based classifier: sentence-transformer embeddings + a linear
 classifier on top, instead of TF-IDF.
@@ -28,7 +29,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.model_selection import train_test_split
 
-from preprocess import load_reports, summarize_categories
+from preprocess import filter_rare_categories, load_reports, summarize_categories
 
 MODEL_NAME = "all-MiniLM-L6-v2"
 
@@ -44,9 +45,17 @@ def main():
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--model-out", type=str, default="models/embedding_clf.joblib")
     parser.add_argument("--embeddings-out", type=str, default="models/embeddings.npz", help="Cache narrative embeddings for reuse by similarity_search.py")
+    parser.add_argument(
+        "--min-category-count",
+        type=int,
+        default=10,
+        help="Drop categories with fewer than this many examples (same reasoning as baseline_model.py; "
+        "also keeps this script's embeddings cache aligned with clustering.py's)",
+    )
     args = parser.parse_args()
 
     df = load_reports(args.data)
+    df = filter_rare_categories(df, min_count=args.min_category_count)
     summarize_categories(df)
 
     print(f"\nLoading sentence-transformer '{MODEL_NAME}' (downloads on first run)...")
@@ -54,6 +63,13 @@ def main():
 
     print("Embedding narratives...")
     X = embed_narratives(df["narrative"], encoder)
+    # .to_numpy(dtype=object) rather than .values: on some pandas/pyarrow
+    # combinations .values on an Arrow-backed string column returns an
+    # ArrowExtensionArray that scikit-learn's internal fancy indexing (inside
+    # train_test_split) can't index with a numpy int array -- it fails with a
+    # confusing TypeError from deep inside pyarrow. Forcing a plain
+    # object-dtype numpy array sidesteps that. (See the same note in
+    # preprocess.load_reports.)
     y = df["category"].to_numpy(dtype=object)
 
     X_train, X_test, y_train, y_test = train_test_split(
@@ -82,14 +98,20 @@ def main():
     joblib.dump({"classifier": clf, "encoder_name": MODEL_NAME}, model_out)
     print(f"\nSaved trained classifier to {model_out}")
 
-    # Cache full-dataset embeddings for similarity_search.py / app.py so they
-    # don't need to re-embed everything on every run.
+        # Cache full-dataset embeddings for similarity_search.py / app.py so they
+    # don't need to re-embed everything on every run. Reuse X (already the
+    # embeddings for the whole dataset, computed above) instead of calling
+    # embed_narratives() a second time -- it was needlessly re-embedding
+    # every narrative from scratch, roughly doubling this script's runtime
+    # for identical output.
     embeddings_out = Path(args.embeddings_out)
     embeddings_out.parent.mkdir(parents=True, exist_ok=True)
-    full_embeddings = embed_narratives(df["narrative"], encoder)
     np.savez(
         embeddings_out,
-        embeddings=full_embeddings,
+        embeddings=X,
+        # .to_numpy(dtype=object)/.to_numpy() rather than .values, same
+        # Arrow-backed-dtype caveat as above -- plain numpy arrays serialize
+        # into the .npz reliably, an ArrowExtensionArray might not.
         report_id=df["report_id"].to_numpy(),
         category=df["category"].to_numpy(dtype=object),
         narrative=df["narrative"].to_numpy(dtype=object),

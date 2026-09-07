@@ -43,9 +43,19 @@ def load_reports(csv_path: str) -> pd.DataFrame:
     if after < before:
         print(f"[preprocess] dropped {before - after} row(s) with missing/empty/duplicate narratives")
 
-        df = df.reset_index(drop=True)
-        df["category"] = df["category"].astype(object)
-        df["narrative"] = df["narrative"].astype(object)
+    df = df.reset_index(drop=True)
+
+    # Force plain numpy object dtype for the text columns. Newer pandas
+    # versions (with pyarrow installed) can silently give string columns an
+    # Arrow-backed dtype, and scikit-learn's fancy indexing (used inside
+    # train_test_split) doesn't reliably support that -- it fails with a
+    # confusing "only integer scalar arrays can be converted to a scalar
+    # index" error deep in pyarrow. Normalizing here, once, means every
+    # script that calls load_reports() is protected without needing its own
+    # workaround.
+    df["category"] = df["category"].astype(object)
+    df["narrative"] = df["narrative"].astype(object)
+
     return df
 
 
@@ -63,8 +73,40 @@ def clean_text(text: str) -> str:
 
 def add_clean_narrative(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
+    # .astype(object) for the same reason as in load_reports() -- keep this
+    # a plain numpy object column, not an Arrow-backed one, so it's always
+    # safe to hand straight to scikit-learn.
     df["clean_narrative"] = df["narrative"].apply(clean_text).astype(object)
     return df
+
+
+def filter_rare_categories(df: pd.DataFrame, min_count: int = 10) -> pd.DataFrame:
+    """Drop rows whose category has fewer than `min_count` examples.
+
+    scikit-learn's stratified train/test split requires at least 2 examples
+    per class to put one in each side of the split -- with only 1 it hard
+    crashes. And even at 2-3 examples, a per-class precision/recall number
+    is close to meaningless anyway. Real-world data (unlike the bundled
+    synthetic sample, which is perfectly balanced by construction) has a
+    genuine long tail of rare categories, so this isn't incidental cleanup
+    -- it's a real modeling decision. Document which categories got dropped
+    and why wherever you write up results; don't just silently swallow it.
+    """
+    counts = df["category"].value_counts()
+    rare = counts[counts < min_count]
+    if len(rare) == 0:
+        return df
+
+    dropped_rows = int(rare.sum())
+    print(
+        f"[preprocess] dropping {len(rare)} categor{'y' if len(rare) == 1 else 'ies'} "
+        f"with fewer than {min_count} examples ({dropped_rows} row(s) total):"
+    )
+    for category, count in rare.items():
+        print(f"    {category:<30} {count}")
+
+    keep = counts[counts >= min_count].index
+    return df[df["category"].isin(keep)].reset_index(drop=True)
 
 
 def summarize_categories(df: pd.DataFrame) -> None:

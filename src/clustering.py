@@ -1,3 +1,4 @@
+# src/clustering.py
 """
 Unsupervised pattern discovery: cluster report embeddings and surface the
 top distinguishing terms per cluster.
@@ -27,7 +28,7 @@ from sklearn.cluster import KMeans
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import silhouette_score
 
-from preprocess import load_reports
+from preprocess import filter_rare_categories, load_reports
 
 
 def get_embeddings(df: pd.DataFrame, cache_path: str):
@@ -79,9 +80,18 @@ def main():
     parser.add_argument("--data", type=str, default="data/sample_reports.csv")
     parser.add_argument("--embeddings-cache", type=str, default="models/embeddings.npz")
     parser.add_argument("--k", type=int, default=None, help="Number of clusters; auto-selected via silhouette score if omitted")
+    parser.add_argument(
+        "--min-category-count",
+        type=int,
+        default=10,
+        help="Drop categories with fewer than this many examples, matching baseline_model.py / "
+        "embedding_model.py -- also keeps this in sync with embedding_model.py's cache so it's reused "
+        "instead of recomputed",
+    )
     args = parser.parse_args()
 
     df = load_reports(args.data)
+    df = filter_rare_categories(df, min_count=args.min_category_count)
     embeddings = get_embeddings(df, args.embeddings_cache)
 
     if args.k is None:
