@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Data (large/real pulls shouldn't be committed)
+data/nhtsa_raw/
+data/*.large.csv
+
+# Models
+models/*.joblib
+models/*.pkl
+*.faiss
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/

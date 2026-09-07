@@ -1,0 +1,601 @@
+report_id,category,narrative
+153,BRAKES,Vehicle pulled hard to one side when braking. occurred during a panic stop situation. nearly resulted in a collision.
+79,ELECTRICAL SYSTEM,Vehicle would not start due to what the dealer called a wiring fault. started happening around 8700 miles. left the driver stranded in a parking lot.
+237,STEERING,Steering felt loose and had excessive play. steering fluid level was found to be low on inspection. was scheduled for a steering system inspection.
+344,FUEL SYSTEM,Vehicle would not accept a full tank without shutting off early. occurs mostly after refueling. fuel line was replaced under warranty.
+143,BRAKES,Brake pedal felt spongy and went almost to the floor. happened during normal city driving at around 3200 miles. vehicle was taken in for emergency service.
+174,BRAKES,"Brakes felt like they were not engaging at all for a moment. Separately, this is the second brake-related complaint for this vehicle. reported to the dealership immediately after it happened."
+136,BRAKES,"Squealing noise from the front brakes even after new pads were installed. Separately, occurred during a panic stop situation. nearly resulted in a collision."
+429,TRANSMISSION,"Hard, jarring shift when accelerating from a stop. Separately, dealer has adjusted the transmission software once already. still under evaluation by the service department."
+303,FUEL SYSTEM,Visible fuel leak near the fuel line was discovered. technician found a loose fuel line connection. fuel line was replaced under warranty.
+55,ENGINE,"Engine makes a loud knocking noise on cold start. In addition, no warning lights appeared before the failure. repair was covered under warranty."
+170,BRAKES,Brakes felt like they were not engaging at all for a moment. inspection found uneven wear on the rotors. nearly resulted in a collision.
+360,FUEL SYSTEM,Visible fuel leak near the fuel line was discovered. technician found a loose fuel line connection. fuel line was replaced under warranty.
+66,ELECTRICAL SYSTEM,"Battery drains completely overnight even when the vehicle is off. In addition, seems worse in humid weather. dealer replaced a wiring harness under warranty."
+103,ELECTRICAL SYSTEM,"Vehicle would not start due to what the dealer called a wiring fault. Also, seems worse in humid weather. left the driver stranded in a parking lot."
+449,TRANSMISSION,"Transmission fluid was found leaking underneath the vehicle. In addition, began around 22000 miles. vehicle was undriveable until repaired."
+448,TRANSMISSION,"Transmission slips noticeably between second and third gear. Separately, dealer has adjusted the transmission software once already. transmission was rebuilt under warranty."
+23,ENGINE,Engine lost power suddenly and would not accelerate. this happened at around 71000 miles. repair was covered under warranty.
+548,TIRES,"Vibration at highway speed traced to an out-of-round tire. In addition, noticed at around 15400 miles. tire was replaced under manufacturer warranty."
+325,FUEL SYSTEM,Vehicle would not accept a full tank without shutting off early. occurs mostly after refueling. reported immediately due to safety concerns.
+307,FUEL SYSTEM,"Visible fuel leak near the fuel line was discovered. In addition, noticed at around 3200 miles. vehicle was not driven until inspected due to fire risk concerns."
+437,TRANSMISSION,"Vehicle hesitates for a few seconds before engaging a gear. In addition, dealer has adjusted the transmission software once already. vehicle was undriveable until repaired."
+546,TIRES,"Tire showed unusual wear pattern well before expected tread life. Also, tire pressure monitoring system flagged the issue first. tire was replaced under manufacturer warranty."
+26,ENGINE,"Engine idles very roughly and shakes the whole vehicle. Also, issue started about 6 months after purchase. still waiting on a diagnosis from the service department."
+82,ELECTRICAL SYSTEM,"Interior lights stay on continuously and cannot be turned off. Separately, problem has occurred at least several times so far. left the driver stranded in a parking lot."
+107,ELECTRICAL SYSTEM,"Infotainment screen goes black intermittently while driving. Also, no aftermarket electronics have been installed. still unresolved after multiple visits."
+201,STEERING,"Power steering assist cut out briefly while turning. Also, noticed this around 44800 miles. resulted in an alignment and steering rack replacement."
+87,ELECTRICAL SYSTEM,"Headlights dim and brighten on their own at low speed. Also, started happening around 44800 miles. required replacing the battery twice."
+22,ENGINE,White smoke coming from under the hood after about 10 minutes of driving. problem occurs consistently in cold weather. repair was covered under warranty.
+566,TIRES,Tire lost pressure repeatedly despite no visible puncture. all four tires were rotated and balanced with no improvement. raised safety concerns about a blowout at highway speed.
+490,STRUCTURE,Creaking and popping noises from the body over bumps. dealer attributed it to a manufacturing defect during inspection. panel was replaced under warranty.
+397,AIRBAGS,"Airbag did not deploy during a low speed collision. Also, dealer says a sensor may need replacement. scheduled for immediate inspection."
+279,SUSPENSION,Clicking noise from the rear suspension at low speed. worse on uneven or gravel roads. still being evaluated by the service department.
+198,STEERING,"Vehicle wandered on the highway and required constant correction. Also, noticed this around 44800 miles. was scheduled for a steering system inspection."
+130,BRAKES,Vehicle pulled hard to one side when braking. inspection found uneven wear on the rotors. vehicle was taken in for emergency service.
+76,ELECTRICAL SYSTEM,"Battery drains completely overnight even when the vehicle is off. Also, started happening around 3200 miles. left the driver stranded in a parking lot."
+555,TIRES,Tire showed unusual wear pattern well before expected tread life. tire pressure monitoring system flagged the issue first. still waiting on a warranty determination.
+569,TIRES,"Sidewall bulge appeared on one tire with normal use. Separately, noticed at around 44800 miles. tire was replaced under manufacturer warranty."
+193,STEERING,"Vehicle wandered on the highway and required constant correction. Also, happens mostly on rough road surfaces. resulted in an alignment and steering rack replacement."
+34,ENGINE,"Check engine light came on and the vehicle started running rough. Also, this happened at around 3200 miles. this is the second engine-related repair this year."
+501,STRUCTURE,Noticed visible rust forming along the frame rail. vehicle has never been in an accident. raised concerns about long term structural integrity.
+371,AIRBAGS,Airbag warning light stays illuminated on the dashboard. warning light has been on since around 8700 miles. vehicle safety is a serious concern given non-deployment.
+479,TRANSMISSION,"Transmission fluid was found leaking underneath the vehicle. In addition, worse when the transmission fluid is cold. still under evaluation by the service department."
+550,TIRES,"Sidewall bulge appeared on one tire with normal use. In addition, all four tires were rotated and balanced with no improvement. tire was replaced under manufacturer warranty."
+407,AIRBAGS,Airbag warning light stays illuminated on the dashboard. no diagnostic trouble code could be retrieved initially. recall campaign was mentioned as a possibility by the dealer.
+67,ELECTRICAL SYSTEM,"Vehicle would not start due to what the dealer called a wiring fault. Also, technician found corrosion near a connector. left the driver stranded in a parking lot."
+16,ENGINE,"Engine makes a loud knocking noise on cold start. Separately, no warning lights appeared before the failure. this is the second engine-related repair this year."
+332,FUEL SYSTEM,Fuel gauge reading is inconsistent with actual fuel level. smell was strong enough to be noticeable from outside the vehicle. fuel line was replaced under warranty.
+59,ENGINE,"Engine idles very roughly and shakes the whole vehicle. Separately, no warning lights appeared before the failure. vehicle was towed to the dealership."
+40,ENGINE,White smoke coming from under the hood after about 10 minutes of driving. problem is intermittent and hard to reproduce on demand. this is the second engine-related repair this year.
+125,BRAKES,Grinding noise when braking at low speed. inspection found uneven wear on the rotors. vehicle was taken in for emergency service.
+528,STRUCTURE,Door does not close flush with the body panel. dealer attributed it to a manufacturing defect during inspection. raised concerns about long term structural integrity.
+168,BRAKES,Abs warning light stays on continuously. this is the second brake-related complaint for this vehicle. reported to the dealership immediately after it happened.
+527,STRUCTURE,"Paint is peeling near a body seam despite normal care. Also, dealer attributed it to a manufacturing defect during inspection. panel was replaced under warranty."
+558,TIRES,"Vibration at highway speed traced to an out-of-round tire. In addition, tire pressure monitoring system flagged the issue first. tire was replaced under manufacturer warranty."
+347,FUEL SYSTEM,"Vehicle would not accept a full tank without shutting off early. Separately, noticed at around 22000 miles. reported immediately due to safety concerns."
+297,SUSPENSION,"Noticed uneven ride height on one side of the vehicle. Also, inspection found a worn suspension component. component was replaced under warranty."
+273,SUSPENSION,"Loud clunking noise from the front suspension over bumps. Also, started around 44800 miles. vehicle was deemed unsafe to drive until repaired."
+94,ELECTRICAL SYSTEM,"Battery drains completely overnight even when the vehicle is off. In addition, seems worse in humid weather. still unresolved after multiple visits."
+74,ELECTRICAL SYSTEM,"Vehicle would not start due to what the dealer called a wiring fault. Separately, seems worse in humid weather. still unresolved after multiple visits."
+508,STRUCTURE,Trunk lid does not align properly with the rear panel. dealer attributed it to a manufacturing defect during inspection. panel was replaced under warranty.
+209,STEERING,"Steering felt loose and had excessive play. Also, noticed this around 8700 miles. was scheduled for a steering system inspection."
+330,FUEL SYSTEM,Fuel gauge reading is inconsistent with actual fuel level. technician found a loose fuel line connection. reported immediately due to safety concerns.
+171,BRAKES,"Abs warning light stays on continuously. Separately, occurred during a panic stop situation. vehicle was taken in for emergency service."
+58,ENGINE,Engine lost power suddenly and would not accelerate. problem occurs consistently in cold weather. this is the second engine-related repair this year.
+151,BRAKES,"Brakes felt like they were not engaging at all for a moment. Separately, inspection found uneven wear on the rotors. nearly resulted in a collision."
+280,SUSPENSION,"Noticed uneven ride height on one side of the vehicle. In addition, started around 3200 miles. vehicle was deemed unsafe to drive until repaired."
+145,BRAKES,Squealing noise from the front brakes even after new pads were installed. inspection found uneven wear on the rotors. vehicle was taken in for emergency service.
+36,ENGINE,"Noticed a strong burning smell coming from the engine bay. Separately, no warning lights appeared before the failure. this is the second engine-related repair this year."
+190,STEERING,Steering felt loose and had excessive play. noticed this around 58200 miles. resulted in an alignment and steering rack replacement.
+377,AIRBAGS,"Airbag warning light stays illuminated on the dashboard. Separately, no diagnostic trouble code could be retrieved initially. vehicle safety is a serious concern given non-deployment."
+115,ELECTRICAL SYSTEM,"Infotainment screen goes black intermittently while driving. Separately, started happening around 22000 miles. required replacing the battery twice."
+275,SUSPENSION,Clicking noise from the rear suspension at low speed. inspection found a worn suspension component. vehicle was deemed unsafe to drive until repaired.
+536,STRUCTURE,"Trunk lid does not align properly with the rear panel. Also, vehicle has never been in an accident. panel was replaced under warranty."
+197,STEERING,Vehicle wandered on the highway and required constant correction. happens mostly on rough road surfaces. was scheduled for a steering system inspection.
+300,SUSPENSION,"Clicking noise from the rear suspension at low speed. Separately, started around 31500 miles. still being evaluated by the service department."
+105,ELECTRICAL SYSTEM,"Infotainment screen goes black intermittently while driving. Separately, started happening around 31500 miles. left the driver stranded in a parking lot."
+210,STEERING,"Steering felt loose and had excessive play. In addition, happens mostly on rough road surfaces. made the vehicle difficult to control."
+175,BRAKES,"Abs warning light stays on continuously. In addition, occurred during a panic stop situation. reported to the dealership immediately after it happened."
+92,ELECTRICAL SYSTEM,"Dashboard warning lights flicker on and off randomly. Separately, seems worse in humid weather. dealer replaced a wiring harness under warranty."
+179,BRAKES,Grinding noise when braking at low speed. occurred during a panic stop situation. nearly resulted in a collision.
+339,FUEL SYSTEM,Visible fuel leak near the fuel line was discovered. technician found a loose fuel line connection. fuel line was replaced under warranty.
+142,BRAKES,"Squealing noise from the front brakes even after new pads were installed. In addition, this is the second brake-related complaint for this vehicle. nearly resulted in a collision."
+485,STRUCTURE,Trunk lid does not align properly with the rear panel. first noticed around 3200 miles. panel was replaced under warranty.
+220,STEERING,Power steering assist cut out briefly while turning. steering fluid level was found to be low on inspection. resulted in an alignment and steering rack replacement.
+436,TRANSMISSION,"Vehicle hesitates for a few seconds before engaging a gear. Also, problem has occurred over 2 separate occasions. vehicle was undriveable until repaired."
+458,TRANSMISSION,"Transmission slips noticeably between second and third gear. Also, worse when the transmission fluid is cold. transmission was rebuilt under warranty."
+553,TIRES,Tire lost pressure repeatedly despite no visible puncture. noticed at around 3200 miles. still waiting on a warranty determination.
+155,BRAKES,"Brakes felt like they were not engaging at all for a moment. Separately, occurred during a panic stop situation. nearly resulted in a collision."
+327,FUEL SYSTEM,"Visible fuel leak near the fuel line was discovered. Separately, technician found a loose fuel line connection. fuel line was replaced under warranty."
+45,ENGINE,Check engine light came on and the vehicle started running rough. problem is intermittent and hard to reproduce on demand. had to pull over immediately for safety.
+152,BRAKES,Brakes felt like they were not engaging at all for a moment. happened during normal city driving at around 3200 miles. nearly resulted in a collision.
+72,ELECTRICAL SYSTEM,"Battery drains completely overnight even when the vehicle is off. Also, problem has occurred at least 4 times so far. required replacing the battery twice."
+148,BRAKES,Brakes felt like they were not engaging at all for a moment. occurred during a panic stop situation. nearly resulted in a collision.
+30,ENGINE,"The engine stalled without warning while driving at highway speed. In addition, no warning lights appeared before the failure. this is the second engine-related repair this year."
+393,AIRBAGS,"Airbag deployed unexpectedly with no collision. In addition, no diagnostic trouble code could be retrieved initially. scheduled for immediate inspection."
+504,STRUCTURE,Door does not close flush with the body panel. vehicle has never been in an accident. still awaiting a decision from the manufacturer.
+473,TRANSMISSION,"Vehicle hesitates for a few seconds before engaging a gear. Separately, began around 44800 miles. transmission was rebuilt under warranty."
+366,AIRBAGS,"Airbag did not deploy during a low speed collision. In addition, dealer says a sensor may need replacement. scheduled for immediate inspection."
+383,AIRBAGS,Passenger airbag indicator shows off even with a passenger seated. no diagnostic trouble code could be retrieved initially. vehicle safety is a serious concern given non-deployment.
+426,TRANSMISSION,Vehicle hesitates for a few seconds before engaging a gear. began around 22000 miles. still under evaluation by the service department.
+149,BRAKES,"Abs warning light stays on continuously. Also, occurred during a panic stop situation. nearly resulted in a collision."
+518,STRUCTURE,"Trunk lid does not align properly with the rear panel. In addition, dealer attributed it to a manufacturing defect during inspection. still awaiting a decision from the manufacturer."
+104,ELECTRICAL SYSTEM,Infotainment screen goes black intermittently while driving. started happening around 31500 miles. still unresolved after multiple visits.
+8,ENGINE,"Noticed a strong burning smell coming from the engine bay. Also, dealer has seen the vehicle twice for this same issue. still waiting on a diagnosis from the service department."
+579,TIRES,Vibration at highway speed traced to an out-of-round tire. noticed at around 58200 miles. tire was replaced under manufacturer warranty.
+165,BRAKES,"Brakes felt like they were not engaging at all for a moment. In addition, this is the second brake-related complaint for this vehicle. nearly resulted in a collision."
+316,FUEL SYSTEM,Vehicle would not accept a full tank without shutting off early. occurs mostly after refueling. reported immediately due to safety concerns.
+261,SUSPENSION,Clicking noise from the rear suspension at low speed. worse on uneven or gravel roads. component was replaced under warranty.
+194,STEERING,"Clunking noise from the steering column when turning at low speed. Also, noticed this around 15400 miles. was scheduled for a steering system inspection."
+543,TIRES,"Sidewall bulge appeared on one tire with normal use. In addition, noticed at around 3200 miles. still waiting on a warranty determination."
+278,SUSPENSION,"Loud clunking noise from the front suspension over bumps. In addition, worse on uneven or gravel roads. still being evaluated by the service department."
+230,STEERING,"Clunking noise from the steering column when turning at low speed. Also, steering fluid level was found to be low on inspection. resulted in an alignment and steering rack replacement."
+596,TIRES,Tire showed unusual wear pattern well before expected tread life. noticed at around 58200 miles. still waiting on a warranty determination.
+338,FUEL SYSTEM,"Visible fuel leak near the fuel line was discovered. Separately, noticed at around 58200 miles. vehicle was not driven until inspected due to fire risk concerns."
+239,STEERING,Vehicle wandered on the highway and required constant correction. noticed this around 15400 miles. was scheduled for a steering system inspection.
+199,STEERING,"Clunking noise from the steering column when turning at low speed. Separately, noticed this around 31500 miles. made the vehicle difficult to control."
+20,ENGINE,"Engine lost power suddenly and would not accelerate. In addition, this happened at around 8700 miles. vehicle was towed to the dealership."
+390,AIRBAGS,Airbag deployed unexpectedly with no collision. warning light has been on since around 8700 miles. vehicle safety is a serious concern given non-deployment.
+169,BRAKES,"Grinding noise when braking at low speed. In addition, happened during normal city driving at around 71000 miles. dealer replaced rotors and pads under warranty."
+319,FUEL SYSTEM,Fuel gauge reading is inconsistent with actual fuel level. smell was strong enough to be noticeable from outside the vehicle. fuel line was replaced under warranty.
+89,ELECTRICAL SYSTEM,Infotainment screen goes black intermittently while driving. seems worse in humid weather. dealer replaced a wiring harness under warranty.
+422,TRANSMISSION,Grinding noise when shifting into reverse. problem has occurred over 4 separate occasions. transmission was rebuilt under warranty.
+530,STRUCTURE,Noticed visible rust forming along the frame rail. dealer attributed it to a manufacturing defect during inspection. panel was replaced under warranty.
+373,AIRBAGS,"Passenger airbag indicator shows off even with a passenger seated. In addition, warning light has been on since around 8700 miles. scheduled for immediate inspection."
+2,ENGINE,"The engine stalled without warning while driving at highway speed. Also, this happened at around 8700 miles. had to pull over immediately for safety."
+254,SUSPENSION,Vehicle bounces excessively after hitting a pothole. started around 22000 miles. vehicle was deemed unsafe to drive until repaired.
+181,STEERING,"Power steering assist cut out briefly while turning. Separately, dealer could not immediately duplicate the issue. resulted in an alignment and steering rack replacement."
+493,STRUCTURE,"Paint is peeling near a body seam despite normal care. In addition, dealer attributed it to a manufacturing defect during inspection. panel was replaced under warranty."
+411,AIRBAGS,"Airbag did not deploy during a low speed collision. In addition, dealer says a sensor may need replacement. scheduled for immediate inspection."
+71,ELECTRICAL SYSTEM,Infotainment screen goes black intermittently while driving. seems worse in humid weather. dealer replaced a wiring harness under warranty.
+321,FUEL SYSTEM,"Visible fuel leak near the fuel line was discovered. In addition, technician found a loose fuel line connection. fuel line was replaced under warranty."
+214,STEERING,Clunking noise from the steering column when turning at low speed. dealer could not immediately duplicate the issue. made the vehicle difficult to control.
+445,TRANSMISSION,"Vehicle hesitates for a few seconds before engaging a gear. In addition, problem has occurred over 2 separate occasions. vehicle was undriveable until repaired."
+253,SUSPENSION,"Loud clunking noise from the front suspension over bumps. Also, no prior accident or impact reported. component was replaced under warranty."
+61,ELECTRICAL SYSTEM,Headlights dim and brighten on their own at low speed. started happening around 3200 miles. still unresolved after multiple visits.
+464,TRANSMISSION,"Hard, jarring shift when accelerating from a stop. Also, worse when the transmission fluid is cold. vehicle was undriveable until repaired."
+400,AIRBAGS,"Airbag did not deploy during a low speed collision. Separately, warning light has been on since around 22000 miles. scheduled for immediate inspection."
+364,AIRBAGS,"Airbag deployed unexpectedly with no collision. Also, dealer says a sensor may need replacement. vehicle safety is a serious concern given non-deployment."
+455,TRANSMISSION,"Transmission fluid was found leaking underneath the vehicle. In addition, dealer has adjusted the transmission software once already. transmission was rebuilt under warranty."
+292,SUSPENSION,Clicking noise from the rear suspension at low speed. inspection found a worn suspension component. still being evaluated by the service department.
+435,TRANSMISSION,"Vehicle hesitates for a few seconds before engaging a gear. Separately, began around 8700 miles. vehicle was undriveable until repaired."
+124,BRAKES,Abs warning light stays on continuously. this is the second brake-related complaint for this vehicle. dealer replaced rotors and pads under warranty.
+443,TRANSMISSION,"Grinding noise when shifting into reverse. Separately, dealer has adjusted the transmission software once already. still under evaluation by the service department."
+433,TRANSMISSION,Vehicle hesitates for a few seconds before engaging a gear. worse when the transmission fluid is cold. vehicle was undriveable until repaired.
+578,TIRES,"Tire lost pressure repeatedly despite no visible puncture. Also, noticed at around 15400 miles. tire was replaced under manufacturer warranty."
+141,BRAKES,"Vehicle pulled hard to one side when braking. In addition, happened during normal city driving at around 8700 miles. dealer replaced rotors and pads under warranty."
+395,AIRBAGS,"Passenger airbag indicator shows off even with a passenger seated. Separately, warning light has been on since around 8700 miles. scheduled for immediate inspection."
+334,FUEL SYSTEM,"Strong fuel smell noticed near the rear of the vehicle. Also, smell was strong enough to be noticeable from outside the vehicle. reported immediately due to safety concerns."
+585,TIRES,"Sidewall bulge appeared on one tire with normal use. Separately, noticed at around 58200 miles. raised safety concerns about a blowout at highway speed."
+521,STRUCTURE,Door does not close flush with the body panel. first noticed around 31500 miles. still awaiting a decision from the manufacturer.
+246,SUSPENSION,Noticed uneven ride height on one side of the vehicle. inspection found a worn suspension component. component was replaced under warranty.
+474,TRANSMISSION,"Vehicle hesitates for a few seconds before engaging a gear. Also, dealer has adjusted the transmission software once already. still under evaluation by the service department."
+320,FUEL SYSTEM,"Engine hesitates and stumbles under acceleration. Also, noticed at around 58200 miles. vehicle was not driven until inspected due to fire risk concerns."
+600,TIRES,Tire showed unusual wear pattern well before expected tread life. noticed at around 22000 miles. still waiting on a warranty determination.
+416,AIRBAGS,Airbag warning light stays illuminated on the dashboard. warning light has been on since around 8700 miles. vehicle safety is a serious concern given non-deployment.
+313,FUEL SYSTEM,"Fuel gauge reading is inconsistent with actual fuel level. Also, noticed at around 8700 miles. reported immediately due to safety concerns."
+593,TIRES,"Vibration at highway speed traced to an out-of-round tire. Also, tire pressure monitoring system flagged the issue first. still waiting on a warranty determination."
+342,FUEL SYSTEM,"Strong fuel smell noticed near the rear of the vehicle. Separately, smell was strong enough to be noticeable from outside the vehicle. reported immediately due to safety concerns."
+559,TIRES,"Vibration at highway speed traced to an out-of-round tire. In addition, all four tires were rotated and balanced with no improvement. tire was replaced under manufacturer warranty."
+114,ELECTRICAL SYSTEM,"Vehicle would not start due to what the dealer called a wiring fault. In addition, no aftermarket electronics have been installed. left the driver stranded in a parking lot."
+99,ELECTRICAL SYSTEM,"Interior lights stay on continuously and cannot be turned off. In addition, seems worse in humid weather. required replacing the battery twice."
+251,SUSPENSION,Vehicle feels unstable and sways during turns. no prior accident or impact reported. still being evaluated by the service department.
+32,ENGINE,Noticed a strong burning smell coming from the engine bay. dealer has seen the vehicle twice for this same issue. still waiting on a diagnosis from the service department.
+517,STRUCTURE,"Creaking and popping noises from the body over bumps. Also, vehicle has never been in an accident. still awaiting a decision from the manufacturer."
+98,ELECTRICAL SYSTEM,"Infotainment screen goes black intermittently while driving. Separately, problem has occurred at least several times so far. dealer replaced a wiring harness under warranty."
+309,FUEL SYSTEM,"Engine hesitates and stumbles under acceleration. Separately, occurs mostly after refueling. reported immediately due to safety concerns."
+406,AIRBAGS,Airbag did not deploy during a low speed collision. no diagnostic trouble code could be retrieved initially. vehicle safety is a serious concern given non-deployment.
+594,TIRES,"Tire showed unusual wear pattern well before expected tread life. In addition, noticed at around 58200 miles. raised safety concerns about a blowout at highway speed."
+336,FUEL SYSTEM,"Vehicle would not accept a full tank without shutting off early. Separately, smell was strong enough to be noticeable from outside the vehicle. reported immediately due to safety concerns."
+484,STRUCTURE,"Noticed visible rust forming along the frame rail. Separately, vehicle has never been in an accident. still awaiting a decision from the manufacturer."
+19,ENGINE,"The engine stalled without warning while driving at highway speed. In addition, problem is intermittent and hard to reproduce on demand. repair was covered under warranty."
+500,STRUCTURE,"Noticed visible rust forming along the frame rail. Also, dealer attributed it to a manufacturing defect during inspection. raised concerns about long term structural integrity."
+492,STRUCTURE,"Paint is peeling near a body seam despite normal care. Separately, dealer attributed it to a manufacturing defect during inspection. panel was replaced under warranty."
+305,FUEL SYSTEM,"Strong fuel smell noticed near the rear of the vehicle. Also, noticed at around 3200 miles. vehicle was not driven until inspected due to fire risk concerns."
+38,ENGINE,"The engine stalled without warning while driving at highway speed. In addition, problem occurs consistently in cold weather. this is the second engine-related repair this year."
+535,STRUCTURE,Door does not close flush with the body panel. dealer attributed it to a manufacturing defect during inspection. raised concerns about long term structural integrity.
+85,ELECTRICAL SYSTEM,"Headlights dim and brighten on their own at low speed. In addition, no aftermarket electronics have been installed. still unresolved after multiple visits."
+9,ENGINE,White smoke coming from under the hood after about 10 minutes of driving. no warning lights appeared before the failure. had to pull over immediately for safety.
+260,SUSPENSION,"Noticed uneven ride height on one side of the vehicle. Separately, started around 44800 miles. vehicle was deemed unsafe to drive until repaired."
+477,TRANSMISSION,"Vehicle hesitates for a few seconds before engaging a gear. Separately, worse when the transmission fluid is cold. still under evaluation by the service department."
+128,BRAKES,"Brakes felt like they were not engaging at all for a moment. In addition, occurred during a panic stop situation. vehicle was taken in for emergency service."
+384,AIRBAGS,Airbag did not deploy during a low speed collision. no diagnostic trouble code could be retrieved initially. recall campaign was mentioned as a possibility by the dealer.
+385,AIRBAGS,"Airbag deployed unexpectedly with no collision. Separately, dealer says a sensor may need replacement. recall campaign was mentioned as a possibility by the dealer."
+306,FUEL SYSTEM,"Strong fuel smell noticed near the rear of the vehicle. Separately, occurs mostly after refueling. reported immediately due to safety concerns."
+56,ENGINE,Noticed a strong burning smell coming from the engine bay. dealer has seen the vehicle twice for this same issue. still waiting on a diagnosis from the service department.
+312,FUEL SYSTEM,"Vehicle would not accept a full tank without shutting off early. Also, smell was strong enough to be noticeable from outside the vehicle. vehicle was not driven until inspected due to fire risk concerns."
+259,SUSPENSION,Noticed uneven ride height on one side of the vehicle. started around 71000 miles. still being evaluated by the service department.
+391,AIRBAGS,"Passenger airbag indicator shows off even with a passenger seated. In addition, no diagnostic trouble code could be retrieved initially. recall campaign was mentioned as a possibility by the dealer."
+24,ENGINE,"The engine stalled without warning while driving at highway speed. In addition, this happened at around 22000 miles. had to pull over immediately for safety."
+60,ENGINE,"White smoke coming from under the hood after about 10 minutes of driving. In addition, issue started about 1 months after purchase. vehicle was towed to the dealership."
+3,ENGINE,"Noticed a strong burning smell coming from the engine bay. In addition, issue started about 6 months after purchase. still waiting on a diagnosis from the service department."
+460,TRANSMISSION,"Vehicle hesitates for a few seconds before engaging a gear. In addition, dealer has adjusted the transmission software once already. transmission was rebuilt under warranty."
+113,ELECTRICAL SYSTEM,"Vehicle would not start due to what the dealer called a wiring fault. In addition, problem has occurred at least 3 times so far. still unresolved after multiple visits."
+249,SUSPENSION,Loud clunking noise from the front suspension over bumps. started around 58200 miles. component was replaced under warranty.
+367,AIRBAGS,Passenger airbag indicator shows off even with a passenger seated. dealer says a sensor may need replacement. scheduled for immediate inspection.
+290,SUSPENSION,"Vehicle feels unstable and sways during turns. Also, inspection found a worn suspension component. component was replaced under warranty."
+388,AIRBAGS,"Airbag warning light stays illuminated on the dashboard. Separately, no diagnostic trouble code could be retrieved initially. recall campaign was mentioned as a possibility by the dealer."
+27,ENGINE,"Engine would not turn over despite a fully charged battery. In addition, problem occurs consistently in cold weather. still waiting on a diagnosis from the service department."
+48,ENGINE,"Check engine light came on and the vehicle started running rough. Separately, problem occurs consistently in cold weather. had to pull over immediately for safety."
+418,AIRBAGS,"Airbag did not deploy during a low speed collision. Also, warning light has been on since around 58200 miles. scheduled for immediate inspection."
+225,STEERING,"Clunking noise from the steering column when turning at low speed. In addition, happens mostly on rough road surfaces. resulted in an alignment and steering rack replacement."
+13,ENGINE,"Noticed a strong burning smell coming from the engine bay. Also, problem is intermittent and hard to reproduce on demand. still waiting on a diagnosis from the service department."
+39,ENGINE,"Check engine light came on and the vehicle started running rough. Separately, dealer has seen the vehicle twice for this same issue. had to pull over immediately for safety."
+263,SUSPENSION,Loud clunking noise from the front suspension over bumps. started around 22000 miles. vehicle was deemed unsafe to drive until repaired.
+522,STRUCTURE,Noticed visible rust forming along the frame rail. vehicle has never been in an accident. panel was replaced under warranty.
+378,AIRBAGS,"Airbag did not deploy during a low speed collision. In addition, warning light has been on since around 44800 miles. recall campaign was mentioned as a possibility by the dealer."
+126,BRAKES,"Vehicle pulled hard to one side when braking. In addition, occurred during a panic stop situation. dealer replaced rotors and pads under warranty."
+557,TIRES,Tire lost pressure repeatedly despite no visible puncture. noticed at around 15400 miles. tire was replaced under manufacturer warranty.
+563,TIRES,"Vibration at highway speed traced to an out-of-round tire. Also, all four tires were rotated and balanced with no improvement. raised safety concerns about a blowout at highway speed."
+376,AIRBAGS,Passenger airbag indicator shows off even with a passenger seated. warning light has been on since around 71000 miles. scheduled for immediate inspection.
+116,ELECTRICAL SYSTEM,Infotainment screen goes black intermittently while driving. seems worse in humid weather. still unresolved after multiple visits.
+399,AIRBAGS,"Passenger airbag indicator shows off even with a passenger seated. Also, warning light has been on since around 31500 miles. recall campaign was mentioned as a possibility by the dealer."
+283,SUSPENSION,Clicking noise from the rear suspension at low speed. no prior accident or impact reported. vehicle was deemed unsafe to drive until repaired.
+164,BRAKES,"Abs warning light stays on continuously. In addition, inspection found uneven wear on the rotors. dealer replaced rotors and pads under warranty."
+568,TIRES,Sidewall bulge appeared on one tire with normal use. noticed at around 15400 miles. tire was replaced under manufacturer warranty.
+424,TRANSMISSION,"Transmission fluid was found leaking underneath the vehicle. Also, worse when the transmission fluid is cold. vehicle was undriveable until repaired."
+35,ENGINE,Engine lost power suddenly and would not accelerate. problem occurs consistently in cold weather. had to pull over immediately for safety.
+47,ENGINE,Engine makes a loud knocking noise on cold start. dealer has seen the vehicle twice for this same issue. this is the second engine-related repair this year.
+304,FUEL SYSTEM,"Engine hesitates and stumbles under acceleration. Also, occurs mostly after refueling. reported immediately due to safety concerns."
+219,STEERING,"Vehicle wandered on the highway and required constant correction. In addition, steering fluid level was found to be low on inspection. made the vehicle difficult to control."
+329,FUEL SYSTEM,"Fuel gauge reading is inconsistent with actual fuel level. Separately, smell was strong enough to be noticeable from outside the vehicle. fuel line was replaced under warranty."
+106,ELECTRICAL SYSTEM,Power windows stopped working on both driver and passenger side. no aftermarket electronics have been installed. left the driver stranded in a parking lot.
+428,TRANSMISSION,"Transmission fluid was found leaking underneath the vehicle. In addition, worse when the transmission fluid is cold. vehicle was undriveable until repaired."
+361,AIRBAGS,Airbag deployed unexpectedly with no collision. no diagnostic trouble code could be retrieved initially. recall campaign was mentioned as a possibility by the dealer.
+556,TIRES,"Vibration at highway speed traced to an out-of-round tire. Also, noticed at around 8700 miles. raised safety concerns about a blowout at highway speed."
+461,TRANSMISSION,Grinding noise when shifting into reverse. dealer has adjusted the transmission software once already. transmission was rebuilt under warranty.
+582,TIRES,"Sidewall bulge appeared on one tire with normal use. Also, noticed at around 8700 miles. tire was replaced under manufacturer warranty."
+73,ELECTRICAL SYSTEM,"Dashboard warning lights flicker on and off randomly. Also, problem has occurred at least 2 times so far. required replacing the battery twice."
+271,SUSPENSION,Noticed uneven ride height on one side of the vehicle. worse on uneven or gravel roads. component was replaced under warranty.
+599,TIRES,Vibration at highway speed traced to an out-of-round tire. tire pressure monitoring system flagged the issue first. raised safety concerns about a blowout at highway speed.
+498,STRUCTURE,"Paint is peeling near a body seam despite normal care. Separately, first noticed around 22000 miles. still awaiting a decision from the manufacturer."
+207,STEERING,"Steering wheel vibrates noticeably at highway speed. In addition, noticed this around 8700 miles. was scheduled for a steering system inspection."
+157,BRAKES,Grinding noise when braking at low speed. this is the second brake-related complaint for this vehicle. dealer replaced rotors and pads under warranty.
+233,STEERING,Steering felt loose and had excessive play. dealer could not immediately duplicate the issue. resulted in an alignment and steering rack replacement.
+538,STRUCTURE,Paint is peeling near a body seam despite normal care. vehicle has never been in an accident. panel was replaced under warranty.
+374,AIRBAGS,"Airbag deployed unexpectedly with no collision. In addition, dealer says a sensor may need replacement. recall campaign was mentioned as a possibility by the dealer."
+478,TRANSMISSION,Transmission fluid was found leaking underneath the vehicle. worse when the transmission fluid is cold. transmission was rebuilt under warranty.
+495,STRUCTURE,"Door does not close flush with the body panel. Separately, dealer attributed it to a manufacturing defect during inspection. raised concerns about long term structural integrity."
+355,FUEL SYSTEM,Engine hesitates and stumbles under acceleration. smell was strong enough to be noticeable from outside the vehicle. reported immediately due to safety concerns.
+109,ELECTRICAL SYSTEM,Interior lights stay on continuously and cannot be turned off. seems worse in humid weather. dealer replaced a wiring harness under warranty.
+21,ENGINE,"Check engine light came on and the vehicle started running rough. Separately, issue started about 12 months after purchase. still waiting on a diagnosis from the service department."
+308,FUEL SYSTEM,"Vehicle would not accept a full tank without shutting off early. Also, technician found a loose fuel line connection. vehicle was not driven until inspected due to fire risk concerns."
+57,ENGINE,Noticed a strong burning smell coming from the engine bay. no warning lights appeared before the failure. vehicle was towed to the dealership.
+576,TIRES,Tire showed unusual wear pattern well before expected tread life. all four tires were rotated and balanced with no improvement. still waiting on a warranty determination.
+213,STEERING,Power steering assist cut out briefly while turning. dealer could not immediately duplicate the issue. made the vehicle difficult to control.
+100,ELECTRICAL SYSTEM,Headlights dim and brighten on their own at low speed. started happening around 15400 miles. required replacing the battery twice.
+166,BRAKES,"Vehicle pulled hard to one side when braking. Also, this is the second brake-related complaint for this vehicle. reported to the dealership immediately after it happened."
+189,STEERING,"Clunking noise from the steering column when turning at low speed. Separately, happens mostly on rough road surfaces. resulted in an alignment and steering rack replacement."
+184,STEERING,"Vehicle wandered on the highway and required constant correction. In addition, happens mostly on rough road surfaces. made the vehicle difficult to control."
+42,ENGINE,"Engine lost power suddenly and would not accelerate. Separately, no warning lights appeared before the failure. repair was covered under warranty."
+64,ELECTRICAL SYSTEM,Infotainment screen goes black intermittently while driving. seems worse in humid weather. still unresolved after multiple visits.
+389,AIRBAGS,Airbag deployed unexpectedly with no collision. warning light has been on since around 8700 miles. recall campaign was mentioned as a possibility by the dealer.
+112,ELECTRICAL SYSTEM,"Headlights dim and brighten on their own at low speed. Also, problem has occurred at least 4 times so far. still unresolved after multiple visits."
+457,TRANSMISSION,Transmission fluid was found leaking underneath the vehicle. dealer has adjusted the transmission software once already. transmission was rebuilt under warranty.
+562,TIRES,"Sidewall bulge appeared on one tire with normal use. Separately, all four tires were rotated and balanced with no improvement. raised safety concerns about a blowout at highway speed."
+394,AIRBAGS,Passenger airbag indicator shows off even with a passenger seated. no diagnostic trouble code could be retrieved initially. vehicle safety is a serious concern given non-deployment.
+97,ELECTRICAL SYSTEM,Dashboard warning lights flicker on and off randomly. seems worse in humid weather. left the driver stranded in a parking lot.
+192,STEERING,Steering felt loose and had excessive play. noticed this around 22000 miles. was scheduled for a steering system inspection.
+4,ENGINE,"Engine would not turn over despite a fully charged battery. Separately, dealer has seen the vehicle twice for this same issue. vehicle was towed to the dealership."
+119,ELECTRICAL SYSTEM,"Headlights dim and brighten on their own at low speed. Separately, no aftermarket electronics have been installed. still unresolved after multiple visits."
+451,TRANSMISSION,"Transmission fluid was found leaking underneath the vehicle. In addition, worse when the transmission fluid is cold. transmission was rebuilt under warranty."
+221,STEERING,Power steering assist cut out briefly while turning. dealer could not immediately duplicate the issue. was scheduled for a steering system inspection.
+343,FUEL SYSTEM,"Strong fuel smell noticed near the rear of the vehicle. Also, noticed at around 8700 miles. fuel line was replaced under warranty."
+420,AIRBAGS,"Airbag did not deploy during a low speed collision. In addition, dealer says a sensor may need replacement. recall campaign was mentioned as a possibility by the dealer."
+507,STRUCTURE,Door does not close flush with the body panel. first noticed around 8700 miles. still awaiting a decision from the manufacturer.
+252,SUSPENSION,"Loud clunking noise from the front suspension over bumps. In addition, no prior accident or impact reported. still being evaluated by the service department."
+432,TRANSMISSION,"Grinding noise when shifting into reverse. Also, dealer has adjusted the transmission software once already. vehicle was undriveable until repaired."
+537,STRUCTURE,Creaking and popping noises from the body over bumps. first noticed around 15400 miles. still awaiting a decision from the manufacturer.
+372,AIRBAGS,"Airbag deployed unexpectedly with no collision. Separately, no diagnostic trouble code could be retrieved initially. scheduled for immediate inspection."
+396,AIRBAGS,"Airbag warning light stays illuminated on the dashboard. In addition, warning light has been on since around 15400 miles. recall campaign was mentioned as a possibility by the dealer."
+574,TIRES,Sidewall bulge appeared on one tire with normal use. noticed at around 3200 miles. tire was replaced under manufacturer warranty.
+590,TIRES,Vibration at highway speed traced to an out-of-round tire. tire pressure monitoring system flagged the issue first. raised safety concerns about a blowout at highway speed.
+1,ENGINE,Engine lost power suddenly and would not accelerate. issue started about 1 months after purchase. vehicle was towed to the dealership.
+6,ENGINE,Noticed a strong burning smell coming from the engine bay. this happened at around 71000 miles. this is the second engine-related repair this year.
+156,BRAKES,Vehicle pulled hard to one side when braking. this is the second brake-related complaint for this vehicle. nearly resulted in a collision.
+318,FUEL SYSTEM,"Fuel gauge reading is inconsistent with actual fuel level. Separately, smell was strong enough to be noticeable from outside the vehicle. fuel line was replaced under warranty."
+402,AIRBAGS,"Airbag did not deploy during a low speed collision. Also, dealer says a sensor may need replacement. recall campaign was mentioned as a possibility by the dealer."
+341,FUEL SYSTEM,"Fuel gauge reading is inconsistent with actual fuel level. Also, technician found a loose fuel line connection. fuel line was replaced under warranty."
+469,TRANSMISSION,"Vehicle hesitates for a few seconds before engaging a gear. In addition, problem has occurred over 3 separate occasions. still under evaluation by the service department."
+158,BRAKES,"Abs warning light stays on continuously. Separately, this is the second brake-related complaint for this vehicle. dealer replaced rotors and pads under warranty."
+350,FUEL SYSTEM,Vehicle would not accept a full tank without shutting off early. occurs mostly after refueling. reported immediately due to safety concerns.
+46,ENGINE,"The engine stalled without warning while driving at highway speed. Separately, dealer has seen the vehicle twice for this same issue. repair was covered under warranty."
+598,TIRES,"Vibration at highway speed traced to an out-of-round tire. Also, noticed at around 15400 miles. still waiting on a warranty determination."
+294,SUSPENSION,Loud clunking noise from the front suspension over bumps. no prior accident or impact reported. vehicle was deemed unsafe to drive until repaired.
+247,SUSPENSION,Vehicle feels unstable and sways during turns. started around 71000 miles. component was replaced under warranty.
+502,STRUCTURE,"Noticed visible rust forming along the frame rail. Separately, first noticed around 31500 miles. panel was replaced under warranty."
+544,TIRES,"Sidewall bulge appeared on one tire with normal use. In addition, all four tires were rotated and balanced with no improvement. still waiting on a warranty determination."
+425,TRANSMISSION,"Hard, jarring shift when accelerating from a stop. Also, problem has occurred over 2 separate occasions. transmission was rebuilt under warranty."
+545,TIRES,"Sidewall bulge appeared on one tire with normal use. Separately, noticed at around 44800 miles. raised safety concerns about a blowout at highway speed."
+223,STEERING,"Clunking noise from the steering column when turning at low speed. Separately, steering fluid level was found to be low on inspection. resulted in an alignment and steering rack replacement."
+289,SUSPENSION,Vehicle bounces excessively after hitting a pothole. worse on uneven or gravel roads. component was replaced under warranty.
+234,STEERING,"Steering felt loose and had excessive play. In addition, dealer could not immediately duplicate the issue. resulted in an alignment and steering rack replacement."
+431,TRANSMISSION,"Transmission fluid was found leaking underneath the vehicle. Separately, began around 44800 miles. transmission was rebuilt under warranty."
+299,SUSPENSION,"Clicking noise from the rear suspension at low speed. Separately, no prior accident or impact reported. still being evaluated by the service department."
+564,TIRES,"Tire lost pressure repeatedly despite no visible puncture. In addition, tire pressure monitoring system flagged the issue first. tire was replaced under manufacturer warranty."
+487,STRUCTURE,"Trunk lid does not align properly with the rear panel. In addition, first noticed around 3200 miles. still awaiting a decision from the manufacturer."
+326,FUEL SYSTEM,"Fuel gauge reading is inconsistent with actual fuel level. In addition, technician found a loose fuel line connection. fuel line was replaced under warranty."
+140,BRAKES,"Vehicle pulled hard to one side when braking. Separately, inspection found uneven wear on the rotors. dealer replaced rotors and pads under warranty."
+587,TIRES,Tire showed unusual wear pattern well before expected tread life. tire pressure monitoring system flagged the issue first. still waiting on a warranty determination.
+240,STEERING,"Steering felt loose and had excessive play. Separately, happens mostly on rough road surfaces. made the vehicle difficult to control."
+514,STRUCTURE,Creaking and popping noises from the body over bumps. dealer attributed it to a manufacturing defect during inspection. still awaiting a decision from the manufacturer.
+380,AIRBAGS,"Airbag deployed unexpectedly with no collision. In addition, warning light has been on since around 58200 miles. vehicle safety is a serious concern given non-deployment."
+547,TIRES,"Tire lost pressure repeatedly despite no visible puncture. In addition, tire pressure monitoring system flagged the issue first. still waiting on a warranty determination."
+18,ENGINE,"White smoke coming from under the hood after about 10 minutes of driving. Also, no warning lights appeared before the failure. this is the second engine-related repair this year."
+15,ENGINE,Noticed a strong burning smell coming from the engine bay. problem occurs consistently in cold weather. this is the second engine-related repair this year.
+88,ELECTRICAL SYSTEM,"Battery drains completely overnight even when the vehicle is off. In addition, problem has occurred at least 3 times so far. still unresolved after multiple visits."
+510,STRUCTURE,Trunk lid does not align properly with the rear panel. dealer attributed it to a manufacturing defect during inspection. raised concerns about long term structural integrity.
+453,TRANSMISSION,"Hard, jarring shift when accelerating from a stop. began around 15400 miles. transmission was rebuilt under warranty."
+337,FUEL SYSTEM,Fuel gauge reading is inconsistent with actual fuel level. occurs mostly after refueling. reported immediately due to safety concerns.
+227,STEERING,Steering wheel vibrates noticeably at highway speed. happens mostly on rough road surfaces. made the vehicle difficult to control.
+404,AIRBAGS,Passenger airbag indicator shows off even with a passenger seated. warning light has been on since around 44800 miles. vehicle safety is a serious concern given non-deployment.
+127,BRAKES,"Abs warning light stays on continuously. Also, inspection found uneven wear on the rotors. dealer replaced rotors and pads under warranty."
+450,TRANSMISSION,Transmission fluid was found leaking underneath the vehicle. worse when the transmission fluid is cold. still under evaluation by the service department.
+159,BRAKES,Brake pedal felt spongy and went almost to the floor. happened during normal city driving at around 15400 miles. nearly resulted in a collision.
+595,TIRES,Vibration at highway speed traced to an out-of-round tire. noticed at around 8700 miles. still waiting on a warranty determination.
+523,STRUCTURE,Creaking and popping noises from the body over bumps. first noticed around 71000 miles. raised concerns about long term structural integrity.
+80,ELECTRICAL SYSTEM,"Dashboard warning lights flicker on and off randomly. Separately, no aftermarket electronics have been installed. required replacing the battery twice."
+317,FUEL SYSTEM,Strong fuel smell noticed near the rear of the vehicle. technician found a loose fuel line connection. vehicle was not driven until inspected due to fire risk concerns.
+475,TRANSMISSION,"Transmission slips noticeably between second and third gear. Also, problem has occurred over 3 separate occasions. still under evaluation by the service department."
+54,ENGINE,White smoke coming from under the hood after about 10 minutes of driving. this happened at around 8700 miles. still waiting on a diagnosis from the service department.
+43,ENGINE,"Engine makes a loud knocking noise on cold start. In addition, no warning lights appeared before the failure. still waiting on a diagnosis from the service department."
+269,SUSPENSION,"Noticed uneven ride height on one side of the vehicle. Separately, worse on uneven or gravel roads. component was replaced under warranty."
+581,TIRES,Tire lost pressure repeatedly despite no visible puncture. tire pressure monitoring system flagged the issue first. still waiting on a warranty determination.
+14,ENGINE,"Engine makes a loud knocking noise on cold start. Also, this happened at around 15400 miles. had to pull over immediately for safety."
+539,STRUCTURE,Trunk lid does not align properly with the rear panel. dealer attributed it to a manufacturing defect during inspection. panel was replaced under warranty.
+476,TRANSMISSION,Vehicle hesitates for a few seconds before engaging a gear. dealer has adjusted the transmission software once already. transmission was rebuilt under warranty.
+434,TRANSMISSION,"Hard, jarring shift when accelerating from a stop. dealer has adjusted the transmission software once already. still under evaluation by the service department."
+33,ENGINE,"White smoke coming from under the hood after about 10 minutes of driving. Separately, issue started about 2 months after purchase. had to pull over immediately for safety."
+49,ENGINE,"White smoke coming from under the hood after about 10 minutes of driving. In addition, issue started about 12 months after purchase. had to pull over immediately for safety."
+53,ENGINE,Noticed a strong burning smell coming from the engine bay. dealer has seen the vehicle twice for this same issue. repair was covered under warranty.
+415,AIRBAGS,"Airbag deployed unexpectedly with no collision. Separately, warning light has been on since around 8700 miles. vehicle safety is a serious concern given non-deployment."
+340,FUEL SYSTEM,"Visible fuel leak near the fuel line was discovered. In addition, noticed at around 15400 miles. fuel line was replaced under warranty."
+465,TRANSMISSION,Vehicle hesitates for a few seconds before engaging a gear. worse when the transmission fluid is cold. transmission was rebuilt under warranty.
+463,TRANSMISSION,Transmission fluid was found leaking underneath the vehicle. worse when the transmission fluid is cold. vehicle was undriveable until repaired.
+419,AIRBAGS,"Passenger airbag indicator shows off even with a passenger seated. In addition, dealer says a sensor may need replacement. scheduled for immediate inspection."
+444,TRANSMISSION,"Grinding noise when shifting into reverse. Separately, problem has occurred over 2 separate occasions. vehicle was undriveable until repaired."
+65,ELECTRICAL SYSTEM,"Power windows stopped working on both driver and passenger side. Also, problem has occurred at least several times so far. still unresolved after multiple visits."
+12,ENGINE,"Noticed a strong burning smell coming from the engine bay. Separately, no warning lights appeared before the failure. still waiting on a diagnosis from the service department."
+468,TRANSMISSION,"Grinding noise when shifting into reverse. Also, began around 8700 miles. vehicle was undriveable until repaired."
+368,AIRBAGS,"Airbag did not deploy during a low speed collision. In addition, no diagnostic trouble code could be retrieved initially. recall campaign was mentioned as a possibility by the dealer."
+534,STRUCTURE,"Trunk lid does not align properly with the rear panel. Separately, dealer attributed it to a manufacturing defect during inspection. panel was replaced under warranty."
+405,AIRBAGS,Passenger airbag indicator shows off even with a passenger seated. warning light has been on since around 71000 miles. vehicle safety is a serious concern given non-deployment.
+267,SUSPENSION,"Loud clunking noise from the front suspension over bumps. Separately, started around 71000 miles. vehicle was deemed unsafe to drive until repaired."
+301,FUEL SYSTEM,"Visible fuel leak near the fuel line was discovered. Also, noticed at around 22000 miles. reported immediately due to safety concerns."
+481,STRUCTURE,Creaking and popping noises from the body over bumps. first noticed around 31500 miles. raised concerns about long term structural integrity.
+513,STRUCTURE,Noticed visible rust forming along the frame rail. dealer attributed it to a manufacturing defect during inspection. panel was replaced under warranty.
+446,TRANSMISSION,Transmission slips noticeably between second and third gear. problem has occurred over 4 separate occasions. vehicle was undriveable until repaired.
+203,STEERING,"Power steering assist cut out briefly while turning. In addition, happens mostly on rough road surfaces. made the vehicle difficult to control."
+331,FUEL SYSTEM,Fuel gauge reading is inconsistent with actual fuel level. technician found a loose fuel line connection. reported immediately due to safety concerns.
+310,FUEL SYSTEM,Strong fuel smell noticed near the rear of the vehicle. technician found a loose fuel line connection. fuel line was replaced under warranty.
+137,BRAKES,"Grinding noise when braking at low speed. Separately, inspection found uneven wear on the rotors. dealer replaced rotors and pads under warranty."
+150,BRAKES,"Grinding noise when braking at low speed. In addition, happened during normal city driving at around 15400 miles. nearly resulted in a collision."
+335,FUEL SYSTEM,Engine hesitates and stumbles under acceleration. smell was strong enough to be noticeable from outside the vehicle. fuel line was replaced under warranty.
+163,BRAKES,Brakes felt like they were not engaging at all for a moment. occurred during a panic stop situation. reported to the dealership immediately after it happened.
+161,BRAKES,"Squealing noise from the front brakes even after new pads were installed. Separately, happened during normal city driving at around 44800 miles. dealer replaced rotors and pads under warranty."
+117,ELECTRICAL SYSTEM,"Interior lights stay on continuously and cannot be turned off. Separately, started happening around 22000 miles. dealer replaced a wiring harness under warranty."
+570,TIRES,"Vibration at highway speed traced to an out-of-round tire. In addition, all four tires were rotated and balanced with no improvement. raised safety concerns about a blowout at highway speed."
+83,ELECTRICAL SYSTEM,Infotainment screen goes black intermittently while driving. seems worse in humid weather. dealer replaced a wiring harness under warranty.
+375,AIRBAGS,Airbag warning light stays illuminated on the dashboard. warning light has been on since around 3200 miles. recall campaign was mentioned as a possibility by the dealer.
+37,ENGINE,"Engine lost power suddenly and would not accelerate. Separately, dealer has seen the vehicle twice for this same issue. still waiting on a diagnosis from the service department."
+532,STRUCTURE,"Trunk lid does not align properly with the rear panel. Separately, first noticed around 15400 miles. raised concerns about long term structural integrity."
+575,TIRES,"Tire lost pressure repeatedly despite no visible puncture. Also, noticed at around 31500 miles. raised safety concerns about a blowout at highway speed."
+471,TRANSMISSION,"Grinding noise when shifting into reverse. Separately, problem has occurred over 4 separate occasions. transmission was rebuilt under warranty."
+447,TRANSMISSION,Transmission slips noticeably between second and third gear. problem has occurred over 4 separate occasions. vehicle was undriveable until repaired.
+430,TRANSMISSION,"Transmission fluid was found leaking underneath the vehicle. In addition, worse when the transmission fluid is cold. vehicle was undriveable until repaired."
+173,BRAKES,"Brake pedal felt spongy and went almost to the floor. In addition, this is the second brake-related complaint for this vehicle. nearly resulted in a collision."
+328,FUEL SYSTEM,"Vehicle would not accept a full tank without shutting off early. Also, occurs mostly after refueling. fuel line was replaced under warranty."
+86,ELECTRICAL SYSTEM,"Power windows stopped working on both driver and passenger side. Separately, problem has occurred at least 4 times so far. required replacing the battery twice."
+459,TRANSMISSION,"Vehicle hesitates for a few seconds before engaging a gear. Separately, worse when the transmission fluid is cold. vehicle was undriveable until repaired."
+560,TIRES,"Tire lost pressure repeatedly despite no visible puncture. Separately, all four tires were rotated and balanced with no improvement. raised safety concerns about a blowout at highway speed."
+238,STEERING,Power steering assist cut out briefly while turning. dealer could not immediately duplicate the issue. resulted in an alignment and steering rack replacement.
+147,BRAKES,"Vehicle pulled hard to one side when braking. In addition, happened during normal city driving at around 31500 miles. vehicle was taken in for emergency service."
+315,FUEL SYSTEM,Strong fuel smell noticed near the rear of the vehicle. occurs mostly after refueling. reported immediately due to safety concerns.
+440,TRANSMISSION,"Vehicle hesitates for a few seconds before engaging a gear. Separately, dealer has adjusted the transmission software once already. vehicle was undriveable until repaired."
+41,ENGINE,Check engine light came on and the vehicle started running rough. dealer has seen the vehicle twice for this same issue. had to pull over immediately for safety.
+229,STEERING,"Vehicle wandered on the highway and required constant correction. Also, steering fluid level was found to be low on inspection. was scheduled for a steering system inspection."
+421,TRANSMISSION,"Hard, jarring shift when accelerating from a stop. problem has occurred over several separate occasions. vehicle was undriveable until repaired."
+262,SUSPENSION,Vehicle feels unstable and sways during turns. worse on uneven or gravel roads. component was replaced under warranty.
+345,FUEL SYSTEM,Engine hesitates and stumbles under acceleration. occurs mostly after refueling. reported immediately due to safety concerns.
+506,STRUCTURE,"Creaking and popping noises from the body over bumps. Also, dealer attributed it to a manufacturing defect during inspection. still awaiting a decision from the manufacturer."
+182,STEERING,"Clunking noise from the steering column when turning at low speed. Separately, noticed this around 8700 miles. made the vehicle difficult to control."
+146,BRAKES,Brake pedal felt spongy and went almost to the floor. inspection found uneven wear on the rotors. dealer replaced rotors and pads under warranty.
+497,STRUCTURE,"Trunk lid does not align properly with the rear panel. Also, first noticed around 8700 miles. panel was replaced under warranty."
+542,TIRES,Tire lost pressure repeatedly despite no visible puncture. tire pressure monitoring system flagged the issue first. still waiting on a warranty determination.
+462,TRANSMISSION,"Hard, jarring shift when accelerating from a stop. problem has occurred over several separate occasions. still under evaluation by the service department."
+333,FUEL SYSTEM,"Vehicle would not accept a full tank without shutting off early. Also, noticed at around 22000 miles. reported immediately due to safety concerns."
+452,TRANSMISSION,"Transmission fluid was found leaking underneath the vehicle. Also, worse when the transmission fluid is cold. vehicle was undriveable until repaired."
+296,SUSPENSION,Clicking noise from the rear suspension at low speed. started around 22000 miles. component was replaced under warranty.
+102,ELECTRICAL SYSTEM,"Vehicle would not start due to what the dealer called a wiring fault. In addition, no aftermarket electronics have been installed. required replacing the battery twice."
+311,FUEL SYSTEM,"Fuel gauge reading is inconsistent with actual fuel level. In addition, noticed at around 22000 miles. reported immediately due to safety concerns."
+571,TIRES,"Tire showed unusual wear pattern well before expected tread life. Separately, tire pressure monitoring system flagged the issue first. still waiting on a warranty determination."
+592,TIRES,"Tire lost pressure repeatedly despite no visible puncture. In addition, all four tires were rotated and balanced with no improvement. still waiting on a warranty determination."
+63,ELECTRICAL SYSTEM,Power windows stopped working on both driver and passenger side. seems worse in humid weather. still unresolved after multiple visits.
+211,STEERING,Steering felt loose and had excessive play. noticed this around 31500 miles. was scheduled for a steering system inspection.
+11,ENGINE,"Engine would not turn over despite a fully charged battery. Also, problem occurs consistently in cold weather. repair was covered under warranty."
+177,BRAKES,Grinding noise when braking at low speed. inspection found uneven wear on the rotors. vehicle was taken in for emergency service.
+512,STRUCTURE,"Creaking and popping noises from the body over bumps. Separately, first noticed around 15400 miles. panel was replaced under warranty."
+286,SUSPENSION,"Vehicle bounces excessively after hitting a pothole. Also, worse on uneven or gravel roads. vehicle was deemed unsafe to drive until repaired."
+515,STRUCTURE,"Creaking and popping noises from the body over bumps. In addition, dealer attributed it to a manufacturing defect during inspection. raised concerns about long term structural integrity."
+401,AIRBAGS,Airbag warning light stays illuminated on the dashboard. dealer says a sensor may need replacement. vehicle safety is a serious concern given non-deployment.
+185,STEERING,Vehicle wandered on the highway and required constant correction. happens mostly on rough road surfaces. made the vehicle difficult to control.
+134,BRAKES,"Abs warning light stays on continuously. Also, occurred during a panic stop situation. dealer replaced rotors and pads under warranty."
+172,BRAKES,Vehicle pulled hard to one side when braking. this is the second brake-related complaint for this vehicle. vehicle was taken in for emergency service.
+382,AIRBAGS,Airbag warning light stays illuminated on the dashboard. no diagnostic trouble code could be retrieved initially. scheduled for immediate inspection.
+456,TRANSMISSION,"Hard, jarring shift when accelerating from a stop. In addition, worse when the transmission fluid is cold. still under evaluation by the service department."
+50,ENGINE,"Engine idles very roughly and shakes the whole vehicle. Also, dealer has seen the vehicle twice for this same issue. repair was covered under warranty."
+427,TRANSMISSION,"Grinding noise when shifting into reverse. In addition, dealer has adjusted the transmission software once already. vehicle was undriveable until repaired."
+244,SUSPENSION,"Vehicle feels unstable and sways during turns. In addition, no prior accident or impact reported. vehicle was deemed unsafe to drive until repaired."
+131,BRAKES,"Squealing noise from the front brakes even after new pads were installed. Separately, this is the second brake-related complaint for this vehicle. dealer replaced rotors and pads under warranty."
+111,ELECTRICAL SYSTEM,Dashboard warning lights flicker on and off randomly. problem has occurred at least 4 times so far. left the driver stranded in a parking lot.
+31,ENGINE,"Engine idles very roughly and shakes the whole vehicle. In addition, problem occurs consistently in cold weather. vehicle was towed to the dealership."
+84,ELECTRICAL SYSTEM,Vehicle would not start due to what the dealer called a wiring fault. seems worse in humid weather. left the driver stranded in a parking lot.
+354,FUEL SYSTEM,"Fuel gauge reading is inconsistent with actual fuel level. Separately, smell was strong enough to be noticeable from outside the vehicle. reported immediately due to safety concerns."
+51,ENGINE,"Noticed a strong burning smell coming from the engine bay. Separately, dealer has seen the vehicle twice for this same issue. repair was covered under warranty."
+204,STEERING,Steering wheel vibrates noticeably at highway speed. noticed this around 31500 miles. made the vehicle difficult to control.
+25,ENGINE,Engine makes a loud knocking noise on cold start. problem is intermittent and hard to reproduce on demand. vehicle was towed to the dealership.
+291,SUSPENSION,Noticed uneven ride height on one side of the vehicle. started around 22000 miles. still being evaluated by the service department.
+288,SUSPENSION,"Vehicle feels unstable and sways during turns. Also, started around 22000 miles. vehicle was deemed unsafe to drive until repaired."
+129,BRAKES,"Vehicle pulled hard to one side when braking. Separately, occurred during a panic stop situation. vehicle was taken in for emergency service."
+154,BRAKES,Vehicle pulled hard to one side when braking. this is the second brake-related complaint for this vehicle. nearly resulted in a collision.
+572,TIRES,Vibration at highway speed traced to an out-of-round tire. tire pressure monitoring system flagged the issue first. still waiting on a warranty determination.
+403,AIRBAGS,"Airbag did not deploy during a low speed collision. In addition, warning light has been on since around 22000 miles. vehicle safety is a serious concern given non-deployment."
+491,STRUCTURE,"Door does not close flush with the body panel. Also, vehicle has never been in an accident. panel was replaced under warranty."
+369,AIRBAGS,"Airbag deployed unexpectedly with no collision. Separately, dealer says a sensor may need replacement. scheduled for immediate inspection."
+274,SUSPENSION,"Loud clunking noise from the front suspension over bumps. Also, inspection found a worn suspension component. vehicle was deemed unsafe to drive until repaired."
+565,TIRES,Sidewall bulge appeared on one tire with normal use. tire pressure monitoring system flagged the issue first. tire was replaced under manufacturer warranty.
+520,STRUCTURE,"Door does not close flush with the body panel. In addition, dealer attributed it to a manufacturing defect during inspection. raised concerns about long term structural integrity."
+69,ELECTRICAL SYSTEM,Infotainment screen goes black intermittently while driving. started happening around 44800 miles. required replacing the battery twice.
+467,TRANSMISSION,"Transmission fluid was found leaking underneath the vehicle. Separately, dealer has adjusted the transmission software once already. transmission was rebuilt under warranty."
+216,STEERING,"Power steering assist cut out briefly while turning. Separately, noticed this around 15400 miles. made the vehicle difficult to control."
+91,ELECTRICAL SYSTEM,"Vehicle would not start due to what the dealer called a wiring fault. Also, started happening around 22000 miles. required replacing the battery twice."
+489,STRUCTURE,"Door does not close flush with the body panel. Separately, first noticed around 8700 miles. panel was replaced under warranty."
+413,AIRBAGS,"Airbag warning light stays illuminated on the dashboard. Also, no diagnostic trouble code could be retrieved initially. scheduled for immediate inspection."
+243,SUSPENSION,"Vehicle bounces excessively after hitting a pothole. In addition, worse on uneven or gravel roads. still being evaluated by the service department."
+77,ELECTRICAL SYSTEM,Headlights dim and brighten on their own at low speed. seems worse in humid weather. required replacing the battery twice.
+379,AIRBAGS,"Airbag did not deploy during a low speed collision. Also, dealer says a sensor may need replacement. recall campaign was mentioned as a possibility by the dealer."
+509,STRUCTURE,"Creaking and popping noises from the body over bumps. Separately, first noticed around 71000 miles. panel was replaced under warranty."
+584,TIRES,Tire lost pressure repeatedly despite no visible puncture. tire pressure monitoring system flagged the issue first. still waiting on a warranty determination.
+101,ELECTRICAL SYSTEM,"Vehicle would not start due to what the dealer called a wiring fault. Separately, started happening around 71000 miles. required replacing the battery twice."
+196,STEERING,Power steering assist cut out briefly while turning. steering fluid level was found to be low on inspection. was scheduled for a steering system inspection.
+439,TRANSMISSION,"Transmission fluid was found leaking underneath the vehicle. In addition, worse when the transmission fluid is cold. vehicle was undriveable until repaired."
+222,STEERING,"Clunking noise from the steering column when turning at low speed. Also, dealer could not immediately duplicate the issue. resulted in an alignment and steering rack replacement."
+285,SUSPENSION,Loud clunking noise from the front suspension over bumps. started around 15400 miles. vehicle was deemed unsafe to drive until repaired.
+121,BRAKES,Squealing noise from the front brakes even after new pads were installed. this is the second brake-related complaint for this vehicle. reported to the dealership immediately after it happened.
+412,AIRBAGS,"Airbag warning light stays illuminated on the dashboard. In addition, warning light has been on since around 8700 miles. scheduled for immediate inspection."
+139,BRAKES,Squealing noise from the front brakes even after new pads were installed. this is the second brake-related complaint for this vehicle. dealer replaced rotors and pads under warranty.
+370,AIRBAGS,"Airbag did not deploy during a low speed collision. In addition, dealer says a sensor may need replacement. recall campaign was mentioned as a possibility by the dealer."
+483,STRUCTURE,"Trunk lid does not align properly with the rear panel. Also, vehicle has never been in an accident. raised concerns about long term structural integrity."
+588,TIRES,Sidewall bulge appeared on one tire with normal use. tire pressure monitoring system flagged the issue first. tire was replaced under manufacturer warranty.
+118,ELECTRICAL SYSTEM,Vehicle would not start due to what the dealer called a wiring fault. technician found corrosion near a connector. still unresolved after multiple visits.
+499,STRUCTURE,"Door does not close flush with the body panel. Also, dealer attributed it to a manufacturing defect during inspection. still awaiting a decision from the manufacturer."
+552,TIRES,Tire showed unusual wear pattern well before expected tread life. all four tires were rotated and balanced with no improvement. raised safety concerns about a blowout at highway speed.
+68,ELECTRICAL SYSTEM,Battery drains completely overnight even when the vehicle is off. seems worse in humid weather. left the driver stranded in a parking lot.
+293,SUSPENSION,"Vehicle bounces excessively after hitting a pothole. Separately, no prior accident or impact reported. component was replaced under warranty."
+93,ELECTRICAL SYSTEM,"Battery drains completely overnight even when the vehicle is off. In addition, no aftermarket electronics have been installed. required replacing the battery twice."
+231,STEERING,"Clunking noise from the steering column when turning at low speed. Separately, noticed this around 15400 miles. made the vehicle difficult to control."
+144,BRAKES,Brakes felt like they were not engaging at all for a moment. occurred during a panic stop situation. reported to the dealership immediately after it happened.
+206,STEERING,"Vehicle wandered on the highway and required constant correction. Also, dealer could not immediately duplicate the issue. made the vehicle difficult to control."
+438,TRANSMISSION,"Hard, jarring shift when accelerating from a stop. Separately, problem has occurred over several separate occasions. transmission was rebuilt under warranty."
+187,STEERING,Power steering assist cut out briefly while turning. noticed this around 44800 miles. was scheduled for a steering system inspection.
+191,STEERING,Power steering assist cut out briefly while turning. happens mostly on rough road surfaces. made the vehicle difficult to control.
+386,AIRBAGS,"Airbag warning light stays illuminated on the dashboard. In addition, warning light has been on since around 15400 miles. recall campaign was mentioned as a possibility by the dealer."
+359,FUEL SYSTEM,"Vehicle would not accept a full tank without shutting off early. Also, occurs mostly after refueling. fuel line was replaced under warranty."
+215,STEERING,Steering wheel vibrates noticeably at highway speed. steering fluid level was found to be low on inspection. made the vehicle difficult to control.
+486,STRUCTURE,Creaking and popping noises from the body over bumps. vehicle has never been in an accident. still awaiting a decision from the manufacturer.
+218,STEERING,"Power steering assist cut out briefly while turning. Separately, noticed this around 44800 miles. made the vehicle difficult to control."
+531,STRUCTURE,"Door does not close flush with the body panel. Separately, vehicle has never been in an accident. panel was replaced under warranty."
+95,ELECTRICAL SYSTEM,"Infotainment screen goes black intermittently while driving. Separately, technician found corrosion near a connector. required replacing the battery twice."
+583,TIRES,Tire showed unusual wear pattern well before expected tread life. noticed at around 58200 miles. raised safety concerns about a blowout at highway speed.
+176,BRAKES,Grinding noise when braking at low speed. this is the second brake-related complaint for this vehicle. reported to the dealership immediately after it happened.
+480,TRANSMISSION,"Vehicle hesitates for a few seconds before engaging a gear. Separately, problem has occurred over 3 separate occasions. transmission was rebuilt under warranty."
+242,SUSPENSION,"Clicking noise from the rear suspension at low speed. In addition, inspection found a worn suspension component. vehicle was deemed unsafe to drive until repaired."
+138,BRAKES,"Squealing noise from the front brakes even after new pads were installed. In addition, inspection found uneven wear on the rotors. nearly resulted in a collision."
+122,BRAKES,"Brake pedal felt spongy and went almost to the floor. In addition, this is the second brake-related complaint for this vehicle. nearly resulted in a collision."
+135,BRAKES,Squealing noise from the front brakes even after new pads were installed. happened during normal city driving at around 31500 miles. nearly resulted in a collision.
+281,SUSPENSION,Loud clunking noise from the front suspension over bumps. no prior accident or impact reported. vehicle was deemed unsafe to drive until repaired.
+577,TIRES,"Sidewall bulge appeared on one tire with normal use. Also, noticed at around 22000 miles. tire was replaced under manufacturer warranty."
+133,BRAKES,Brake pedal felt spongy and went almost to the floor. this is the second brake-related complaint for this vehicle. dealer replaced rotors and pads under warranty.
+442,TRANSMISSION,"Transmission fluid was found leaking underneath the vehicle. In addition, problem has occurred over 3 separate occasions. vehicle was undriveable until repaired."
+314,FUEL SYSTEM,Fuel gauge reading is inconsistent with actual fuel level. noticed at around 22000 miles. vehicle was not driven until inspected due to fire risk concerns.
+186,STEERING,Power steering assist cut out briefly while turning. dealer could not immediately duplicate the issue. was scheduled for a steering system inspection.
+167,BRAKES,"Brakes felt like they were not engaging at all for a moment. Also, happened during normal city driving at around 44800 miles. nearly resulted in a collision."
+52,ENGINE,"Engine would not turn over despite a fully charged battery. Also, this happened at around 44800 miles. had to pull over immediately for safety."
+298,SUSPENSION,Vehicle bounces excessively after hitting a pothole. worse on uneven or gravel roads. vehicle was deemed unsafe to drive until repaired.
+540,STRUCTURE,Paint is peeling near a body seam despite normal care. first noticed around 44800 miles. panel was replaced under warranty.
+108,ELECTRICAL SYSTEM,"Dashboard warning lights flicker on and off randomly. Separately, problem has occurred at least several times so far. dealer replaced a wiring harness under warranty."
+346,FUEL SYSTEM,"Visible fuel leak near the fuel line was discovered. Also, smell was strong enough to be noticeable from outside the vehicle. fuel line was replaced under warranty."
+524,STRUCTURE,"Paint is peeling near a body seam despite normal care. Also, first noticed around 58200 miles. raised concerns about long term structural integrity."
+591,TIRES,Sidewall bulge appeared on one tire with normal use. all four tires were rotated and balanced with no improvement. raised safety concerns about a blowout at highway speed.
+353,FUEL SYSTEM,Visible fuel leak near the fuel line was discovered. occurs mostly after refueling. reported immediately due to safety concerns.
+162,BRAKES,"Grinding noise when braking at low speed. Separately, this is the second brake-related complaint for this vehicle. vehicle was taken in for emergency service."
+561,TIRES,"Vibration at highway speed traced to an out-of-round tire. In addition, all four tires were rotated and balanced with no improvement. raised safety concerns about a blowout at highway speed."
+266,SUSPENSION,Vehicle bounces excessively after hitting a pothole. no prior accident or impact reported. component was replaced under warranty.
+358,FUEL SYSTEM,Vehicle would not accept a full tank without shutting off early. noticed at around 71000 miles. fuel line was replaced under warranty.
+62,ELECTRICAL SYSTEM,"Infotainment screen goes black intermittently while driving. In addition, problem has occurred at least several times so far. required replacing the battery twice."
+533,STRUCTURE,"Paint is peeling near a body seam despite normal care. In addition, vehicle has never been in an accident. panel was replaced under warranty."
+90,ELECTRICAL SYSTEM,"Vehicle would not start due to what the dealer called a wiring fault. Separately, problem has occurred at least 4 times so far. dealer replaced a wiring harness under warranty."
+398,AIRBAGS,"Airbag deployed unexpectedly with no collision. Separately, dealer says a sensor may need replacement. vehicle safety is a serious concern given non-deployment."
+352,FUEL SYSTEM,Vehicle would not accept a full tank without shutting off early. smell was strong enough to be noticeable from outside the vehicle. fuel line was replaced under warranty.
+441,TRANSMISSION,"Transmission slips noticeably between second and third gear. In addition, began around 15400 miles. transmission was rebuilt under warranty."
+202,STEERING,Clunking noise from the steering column when turning at low speed. happens mostly on rough road surfaces. resulted in an alignment and steering rack replacement.
+178,BRAKES,"Abs warning light stays on continuously. In addition, inspection found uneven wear on the rotors. vehicle was taken in for emergency service."
+258,SUSPENSION,"Noticed uneven ride height on one side of the vehicle. Separately, worse on uneven or gravel roads. still being evaluated by the service department."
+17,ENGINE,Check engine light came on and the vehicle started running rough. problem occurs consistently in cold weather. had to pull over immediately for safety.
+277,SUSPENSION,"Loud clunking noise from the front suspension over bumps. Also, worse on uneven or gravel roads. still being evaluated by the service department."
+482,STRUCTURE,"Creaking and popping noises from the body over bumps. In addition, dealer attributed it to a manufacturing defect during inspection. still awaiting a decision from the manufacturer."
+245,SUSPENSION,Noticed uneven ride height on one side of the vehicle. no prior accident or impact reported. vehicle was deemed unsafe to drive until repaired.
+217,STEERING,"Steering felt loose and had excessive play. In addition, steering fluid level was found to be low on inspection. was scheduled for a steering system inspection."
+410,AIRBAGS,Airbag did not deploy during a low speed collision. dealer says a sensor may need replacement. scheduled for immediate inspection.
+554,TIRES,"Vibration at highway speed traced to an out-of-round tire. In addition, tire pressure monitoring system flagged the issue first. still waiting on a warranty determination."
+28,ENGINE,"Engine would not turn over despite a fully charged battery. Also, this happened at around 8700 miles. vehicle was towed to the dealership."
+132,BRAKES,Brake pedal felt spongy and went almost to the floor. occurred during a panic stop situation. reported to the dealership immediately after it happened.
+228,STEERING,"Clunking noise from the steering column when turning at low speed. In addition, happens mostly on rough road surfaces. resulted in an alignment and steering rack replacement."
+408,AIRBAGS,"Passenger airbag indicator shows off even with a passenger seated. Separately, dealer says a sensor may need replacement. scheduled for immediate inspection."
+287,SUSPENSION,"Loud clunking noise from the front suspension over bumps. Also, no prior accident or impact reported. still being evaluated by the service department."
+541,TIRES,"Tire showed unusual wear pattern well before expected tread life. Separately, all four tires were rotated and balanced with no improvement. tire was replaced under manufacturer warranty."
+503,STRUCTURE,"Creaking and popping noises from the body over bumps. In addition, dealer attributed it to a manufacturing defect during inspection. panel was replaced under warranty."
+282,SUSPENSION,"Loud clunking noise from the front suspension over bumps. Also, inspection found a worn suspension component. vehicle was deemed unsafe to drive until repaired."
+525,STRUCTURE,"Paint is peeling near a body seam despite normal care. Separately, vehicle has never been in an accident. still awaiting a decision from the manufacturer."
+323,FUEL SYSTEM,"Vehicle would not accept a full tank without shutting off early. In addition, smell was strong enough to be noticeable from outside the vehicle. vehicle was not driven until inspected due to fire risk concerns."
+381,AIRBAGS,"Passenger airbag indicator shows off even with a passenger seated. In addition, warning light has been on since around 58200 miles. vehicle safety is a serious concern given non-deployment."
+567,TIRES,"Tire showed unusual wear pattern well before expected tread life. Also, all four tires were rotated and balanced with no improvement. raised safety concerns about a blowout at highway speed."
+44,ENGINE,White smoke coming from under the hood after about 10 minutes of driving. issue started about 3 months after purchase. still waiting on a diagnosis from the service department.
+7,ENGINE,"Engine makes a loud knocking noise on cold start. In addition, this happened at around 44800 miles. vehicle was towed to the dealership."
+505,STRUCTURE,Trunk lid does not align properly with the rear panel. vehicle has never been in an accident. panel was replaced under warranty.
+81,ELECTRICAL SYSTEM,"Vehicle would not start due to what the dealer called a wiring fault. In addition, no aftermarket electronics have been installed. still unresolved after multiple visits."
+123,BRAKES,Brake pedal felt spongy and went almost to the floor. this is the second brake-related complaint for this vehicle. dealer replaced rotors and pads under warranty.
+586,TIRES,"Vibration at highway speed traced to an out-of-round tire. Separately, all four tires were rotated and balanced with no improvement. tire was replaced under manufacturer warranty."
+160,BRAKES,Grinding noise when braking at low speed. happened during normal city driving at around 8700 miles. dealer replaced rotors and pads under warranty.
+365,AIRBAGS,Passenger airbag indicator shows off even with a passenger seated. warning light has been on since around 15400 miles. recall campaign was mentioned as a possibility by the dealer.
+256,SUSPENSION,Clicking noise from the rear suspension at low speed. no prior accident or impact reported. vehicle was deemed unsafe to drive until repaired.
+208,STEERING,"Steering wheel vibrates noticeably at highway speed. Also, dealer could not immediately duplicate the issue. made the vehicle difficult to control."
+235,STEERING,Steering felt loose and had excessive play. steering fluid level was found to be low on inspection. resulted in an alignment and steering rack replacement.
+212,STEERING,"Power steering assist cut out briefly while turning. Separately, noticed this around 58200 miles. resulted in an alignment and steering rack replacement."
+272,SUSPENSION,"Noticed uneven ride height on one side of the vehicle. Separately, inspection found a worn suspension component. still being evaluated by the service department."
+248,SUSPENSION,Vehicle feels unstable and sways during turns. inspection found a worn suspension component. component was replaced under warranty.
+241,SUSPENSION,"Vehicle bounces excessively after hitting a pothole. Also, worse on uneven or gravel roads. vehicle was deemed unsafe to drive until repaired."
+205,STEERING,"Clunking noise from the steering column when turning at low speed. Also, noticed this around 71000 miles. resulted in an alignment and steering rack replacement."
+511,STRUCTURE,"Creaking and popping noises from the body over bumps. In addition, first noticed around 22000 miles. raised concerns about long term structural integrity."
+195,STEERING,"Clunking noise from the steering column when turning at low speed. Separately, happens mostly on rough road surfaces. resulted in an alignment and steering rack replacement."
+188,STEERING,Vehicle wandered on the highway and required constant correction. happens mostly on rough road surfaces. was scheduled for a steering system inspection.
+276,SUSPENSION,Vehicle feels unstable and sways during turns. started around 22000 miles. still being evaluated by the service department.
+224,STEERING,"Steering felt loose and had excessive play. Also, dealer could not immediately duplicate the issue. resulted in an alignment and steering rack replacement."
+363,AIRBAGS,Passenger airbag indicator shows off even with a passenger seated. no diagnostic trouble code could be retrieved initially. scheduled for immediate inspection.
+322,FUEL SYSTEM,"Fuel gauge reading is inconsistent with actual fuel level. In addition, technician found a loose fuel line connection. vehicle was not driven until inspected due to fire risk concerns."
+488,STRUCTURE,"Door does not close flush with the body panel. Also, dealer attributed it to a manufacturing defect during inspection. still awaiting a decision from the manufacturer."
+183,STEERING,Vehicle wandered on the highway and required constant correction. steering fluid level was found to be low on inspection. was scheduled for a steering system inspection.
+78,ELECTRICAL SYSTEM,Infotainment screen goes black intermittently while driving. technician found corrosion near a connector. dealer replaced a wiring harness under warranty.
+351,FUEL SYSTEM,"Fuel gauge reading is inconsistent with actual fuel level. In addition, noticed at around 8700 miles. vehicle was not driven until inspected due to fire risk concerns."
+409,AIRBAGS,"Airbag warning light stays illuminated on the dashboard. Also, warning light has been on since around 71000 miles. vehicle safety is a serious concern given non-deployment."
+96,ELECTRICAL SYSTEM,"Infotainment screen goes black intermittently while driving. Also, problem has occurred at least 2 times so far. left the driver stranded in a parking lot."
+295,SUSPENSION,"Noticed uneven ride height on one side of the vehicle. In addition, started around 22000 miles. vehicle was deemed unsafe to drive until repaired."
+255,SUSPENSION,"Clicking noise from the rear suspension at low speed. Also, no prior accident or impact reported. still being evaluated by the service department."
+270,SUSPENSION,"Clicking noise from the rear suspension at low speed. In addition, inspection found a worn suspension component. component was replaced under warranty."
+10,ENGINE,"Noticed a strong burning smell coming from the engine bay. Separately, dealer has seen the vehicle twice for this same issue. this is the second engine-related repair this year."
+549,TIRES,Tire showed unusual wear pattern well before expected tread life. tire pressure monitoring system flagged the issue first. tire was replaced under manufacturer warranty.
+529,STRUCTURE,Trunk lid does not align properly with the rear panel. dealer attributed it to a manufacturing defect during inspection. still awaiting a decision from the manufacturer.
+362,AIRBAGS,Airbag deployed unexpectedly with no collision. warning light has been on since around 58200 miles. vehicle safety is a serious concern given non-deployment.
+423,TRANSMISSION,"Vehicle hesitates for a few seconds before engaging a gear. In addition, worse when the transmission fluid is cold. vehicle was undriveable until repaired."
+324,FUEL SYSTEM,"Vehicle would not accept a full tank without shutting off early. Separately, technician found a loose fuel line connection. fuel line was replaced under warranty."
+236,STEERING,"Clunking noise from the steering column when turning at low speed. Separately, happens mostly on rough road surfaces. resulted in an alignment and steering rack replacement."
+226,STEERING,"Steering wheel vibrates noticeably at highway speed. Also, dealer could not immediately duplicate the issue. was scheduled for a steering system inspection."
+392,AIRBAGS,Airbag warning light stays illuminated on the dashboard. warning light has been on since around 3200 miles. scheduled for immediate inspection.
+70,ELECTRICAL SYSTEM,Infotainment screen goes black intermittently while driving. started happening around 3200 miles. dealer replaced a wiring harness under warranty.
+265,SUSPENSION,"Noticed uneven ride height on one side of the vehicle. In addition, inspection found a worn suspension component. still being evaluated by the service department."
+580,TIRES,Tire lost pressure repeatedly despite no visible puncture. noticed at around 71000 miles. raised safety concerns about a blowout at highway speed.
+494,STRUCTURE,Creaking and popping noises from the body over bumps. vehicle has never been in an accident. still awaiting a decision from the manufacturer.
+29,ENGINE,"Check engine light came on and the vehicle started running rough. In addition, dealer has seen the vehicle twice for this same issue. still waiting on a diagnosis from the service department."
+472,TRANSMISSION,"Transmission fluid was found leaking underneath the vehicle. In addition, problem has occurred over 4 separate occasions. still under evaluation by the service department."
+470,TRANSMISSION,Transmission fluid was found leaking underneath the vehicle. began around 71000 miles. vehicle was undriveable until repaired.
+348,FUEL SYSTEM,Strong fuel smell noticed near the rear of the vehicle. technician found a loose fuel line connection. reported immediately due to safety concerns.
+250,SUSPENSION,Noticed uneven ride height on one side of the vehicle. inspection found a worn suspension component. component was replaced under warranty.
+496,STRUCTURE,Paint is peeling near a body seam despite normal care. vehicle has never been in an accident. raised concerns about long term structural integrity.
+387,AIRBAGS,Airbag warning light stays illuminated on the dashboard. dealer says a sensor may need replacement. recall campaign was mentioned as a possibility by the dealer.
+454,TRANSMISSION,"Transmission fluid was found leaking underneath the vehicle. In addition, dealer has adjusted the transmission software once already. transmission was rebuilt under warranty."
+257,SUSPENSION,"Noticed uneven ride height on one side of the vehicle. Separately, no prior accident or impact reported. component was replaced under warranty."
+551,TIRES,Tire showed unusual wear pattern well before expected tread life. tire pressure monitoring system flagged the issue first. tire was replaced under manufacturer warranty.
+264,SUSPENSION,Loud clunking noise from the front suspension over bumps. worse on uneven or gravel roads. vehicle was deemed unsafe to drive until repaired.
+526,STRUCTURE,Creaking and popping noises from the body over bumps. first noticed around 58200 miles. panel was replaced under warranty.
+120,ELECTRICAL SYSTEM,"Headlights dim and brighten on their own at low speed. In addition, problem has occurred at least 3 times so far. required replacing the battery twice."
+349,FUEL SYSTEM,"Vehicle would not accept a full tank without shutting off early. Separately, smell was strong enough to be noticeable from outside the vehicle. reported immediately due to safety concerns."
+302,FUEL SYSTEM,"Fuel gauge reading is inconsistent with actual fuel level. Also, occurs mostly after refueling. vehicle was not driven until inspected due to fire risk concerns."
+516,STRUCTURE,Paint is peeling near a body seam despite normal care. dealer attributed it to a manufacturing defect during inspection. panel was replaced under warranty.
+75,ELECTRICAL SYSTEM,Vehicle would not start due to what the dealer called a wiring fault. started happening around 58200 miles. still unresolved after multiple visits.
+573,TIRES,Sidewall bulge appeared on one tire with normal use. all four tires were rotated and balanced with no improvement. raised safety concerns about a blowout at highway speed.
+110,ELECTRICAL SYSTEM,"Interior lights stay on continuously and cannot be turned off. In addition, no aftermarket electronics have been installed. left the driver stranded in a parking lot."
+519,STRUCTURE,"Trunk lid does not align properly with the rear panel. In addition, dealer attributed it to a manufacturing defect during inspection. still awaiting a decision from the manufacturer."
+417,AIRBAGS,"Airbag warning light stays illuminated on the dashboard. Also, warning light has been on since around 15400 miles. scheduled for immediate inspection."
+180,BRAKES,Squealing noise from the front brakes even after new pads were installed. inspection found uneven wear on the rotors. dealer replaced rotors and pads under warranty.
+268,SUSPENSION,"Vehicle bounces excessively after hitting a pothole. In addition, no prior accident or impact reported. vehicle was deemed unsafe to drive until repaired."
+5,ENGINE,"Engine makes a loud knocking noise on cold start. In addition, dealer has seen the vehicle twice for this same issue. repair was covered under warranty."
+589,TIRES,"Sidewall bulge appeared on one tire with normal use. Separately, tire pressure monitoring system flagged the issue first. still waiting on a warranty determination."
+414,AIRBAGS,"Airbag deployed unexpectedly with no collision. Also, warning light has been on since around 3200 miles. scheduled for immediate inspection."
+466,TRANSMISSION,Transmission slips noticeably between second and third gear. worse when the transmission fluid is cold. transmission was rebuilt under warranty.
+200,STEERING,"Clunking noise from the steering column when turning at low speed. In addition, dealer could not immediately duplicate the issue. made the vehicle difficult to control."
+232,STEERING,"Steering felt loose and had excessive play. In addition, dealer could not immediately duplicate the issue. resulted in an alignment and steering rack replacement."
+284,SUSPENSION,Loud clunking noise from the front suspension over bumps. worse on uneven or gravel roads. still being evaluated by the service department.
+356,FUEL SYSTEM,"Visible fuel leak near the fuel line was discovered. Also, occurs mostly after refueling. vehicle was not driven until inspected due to fire risk concerns."
+357,FUEL SYSTEM,Engine hesitates and stumbles under acceleration. technician found a loose fuel line connection. vehicle was not driven until inspected due to fire risk concerns.
+597,TIRES,Tire lost pressure repeatedly despite no visible puncture. noticed at around 3200 miles. still waiting on a warranty determination.
